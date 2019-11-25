@@ -1,6 +1,7 @@
 Hacker the Husky
 
 By Alex, Alfi, Mathew, Ross and Tom
+For hardware code see the repository [Hacker The Hardware Bear (Github)](https://github.com/Mallington/Hacker-The-Hardware-bear).
 
 ## Motivation
 
